@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 
       DevOps Tools: Git
       
-       Cloud:AWS
+      Cloud:AWS
        
       OS(Operating System):Linux, Windows server
       
