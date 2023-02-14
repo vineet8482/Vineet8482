@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as DevOps
+- 🔭 I’m currently working on a too biuld my self as Developer(in programming) as per IT Industry
 - 🌱 I’m currently learning as Full Stack Developer
       DevOps Tools: Git
       Cloud:AWS
